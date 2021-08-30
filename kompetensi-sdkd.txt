@@ -5,6 +5,8 @@ b. Komunikasi Daring Asinkron
 -email
 c. Github
 -membuat akun
--membuat reporsitory (file baru dan commit)
+-membuat reporsitory
+-membuat file baru
+-membuat commit
 d. Git
 -belum
